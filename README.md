@@ -7,7 +7,7 @@ Our Project idea is to develop a Food Recipe App that shows the user about the i
 
 ## Team Members and Roles
 - ![Sapna Maduraimuthu](https://github.com/SapnaMuthu/CIS641-HW2-Maduraimuthu)
-
+- ![Annamalai Balasubramanian](https://github.com/balasuba/CIS641-HW2-Balasubramanian)
 
 ## Prerequisites
 
