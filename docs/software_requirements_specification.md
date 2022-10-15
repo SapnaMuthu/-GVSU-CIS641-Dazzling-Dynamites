@@ -25,7 +25,8 @@
            2.1.1. User Registration Use Case:
            
                   1. The login page shall be displayed where the existing user can log in to the application by clicking the login 
-                     button and it shall search for the user record in the database and log in to the application if the record matches.
+                     button and it shall search for the user record in the database and log in to the application if the record 
+                     matches.
                      
                   2. The "sign up" button shall be displayed next to the "login" button, allowing a new user to register using an 
                      email address and a password.
@@ -33,8 +34,8 @@
 
            2.1.2 Home Screen Use Case:
            
-                  1. Any user who has registered in the app shall have access to search for recipes using the recipe name as a filter. 
-                     The search option will make it easier for users to locate desired recipes.
+                  1. Any user who has registered in the app shall have access to search for recipes using the recipe name as a 
+                     filter. The search option will make it easier for users to locate desired recipes.
                      
                   2. The Wishlist button on the home screen shall be used to browse the recipes put to the Wishlist.
                   
