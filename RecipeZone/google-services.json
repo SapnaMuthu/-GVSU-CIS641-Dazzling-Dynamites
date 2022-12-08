@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373641396234",
+    "project_id": "xxxx-5f19c",
+    "storage_bucket": "xxxx-5f19c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373641396234:android:edf57be327eb1894199ff3",
+        "android_client_info": {
+          "package_name": "com.rezoapp.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373641396234-5k2rk0obd4vc3fr77qpkurf76d26h3q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtHWTo3KvCaPd2Ug4zmQQV0pIbSO_jmZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373641396234-5k2rk0obd4vc3fr77qpkurf76d26h3q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
