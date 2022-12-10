@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RecipeZone",
-    "slug": "RecipeZone",
+    "name": "FirebaseAuthentication",
+    "slug": "FirebaseAuthentication",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,13 +21,28 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.rezoapp.recipes",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "firebase": {
+                "apiKey": "AIzaSyA4b_PNbn0V76BazdNMKCY80txopFDUh98",
+                "authDomain": "xxxx-5f19c.firebaseapp.com",
+                "databaseURL": "https://xxxx-5f19c-default-rtdb.firebaseio.com",
+                "projectId": "xxxx-5f19c",
+                "storageBucket": "xxxx-5f19c.appspot.com",
+                "messagingSenderId": "373641396234",
+                "appId": "1:373641396234:web:15553eeae3ffe8d1199ff3",
+                "measurementId": "G-9NHSZE4ZJ8"
+        } 
+      }
     }
   }
 }
