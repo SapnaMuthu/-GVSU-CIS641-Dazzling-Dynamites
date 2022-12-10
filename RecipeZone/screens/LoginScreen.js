@@ -12,36 +12,35 @@ import FormInput from '../components/FormInput';
 import FormButton from '../components/FormButton';
 import { auth } from '../fb-config/fb-credentials';
 
-const LoginScreen = ({navigation}) => {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
 
+const LoginScreen = ({navigation}) => {
+  const [email, setEmail] = useState();
+  const [password, setPassword] = useState();
 
   useEffect(()=>{
-  const unsub =  auth.onAuthStateChanged(user=>{
-      if(user){
-        navigation.navigate("Event List");
-      }
-    })
-
-    return unsub;
-  },[])
-
-
+    const unsub =  auth.onAuthStateChanged(user=>{
+        if(user){
+          navigation.navigate("Recipe List");
+        }
+      })
+  
+      return unsub;
+    },[])
+  
   const signinHandler=()=>{
     auth.signInWithEmailAndPassword(email, password).then(userCredentials=>{
       const user=userCredentials.user;
       // console.log("Logged in with: ",user.email)
     }).catch(error=>alert(error.message))
-  }
-
+  } 
 
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <Image
-        source={require('../assets/linkapp.png')}
+        source={require('../assets/REZO.png')}
         style={styles.logo}
       />
+      <Text style={styles.text}>Recipe Zone</Text>
 
       <FormInput
         labelValue={email}
@@ -63,7 +62,7 @@ const LoginScreen = ({navigation}) => {
 
       <FormButton
         buttonTitle="Sign In"
-       onPress={signinHandler}
+        onPress={signinHandler}
       />
 
 
@@ -82,21 +81,24 @@ export default LoginScreen;
 
 const styles = StyleSheet.create({
   container: {
+    backgroundColor: '#000000',
+    color: '#051d5f',
     justifyContent: 'center',
     alignItems: 'center',
     padding: 20,
-    paddingTop: 50
+    paddingTop: 140
   },
   logo: {
     height: 150,
     width: 150,
+    // alignItems: 'start',
     resizeMode: 'cover',
   },
   text: {
     // fontFamily: 'Kufam-SemiBoldItalic',
     fontSize: 28,
     marginBottom: 10,
-    color: '#051d5f',
+    color: '#ffffff',
   },
   SignUpButton: {
     marginVertical: 35,

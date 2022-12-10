@@ -4,14 +4,12 @@ import FormInput from '../components/FormInput';
 import FormButton from '../components/FormButton';
 import { auth } from '../fb-config/fb-credentials';
 
-
 const SignUpScreen = ({navigation}) => {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-  const [confirmPassword, setConfirmPassword] = useState('');
-  
+  const [email, setEmail] = useState();
+  const [password, setPassword] = useState();
+  const [confirmPassword, setConfirmPassword] = useState();
 
-
+//   const {register} = useContext(AuthContext);
   function checkpasswords() {
     if(password!==confirmPassword){
       alert('Passwords Do not Match!')
@@ -29,9 +27,6 @@ const SignUpScreen = ({navigation}) => {
       alert('User Created!')
     }).catch(error=>alert(error.message))
   }
-
-
-//   const {register} = useContext(AuthContext);
 
   return (
     <View style={styles.container}>
@@ -99,7 +94,7 @@ export default SignUpScreen;
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#f9fafd',
+    backgroundColor: '#000000',
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
@@ -109,7 +104,7 @@ const styles = StyleSheet.create({
     // fontFamily: 'Kufam-SemiBoldItalic',
     fontSize: 28,
     marginBottom: 10,
-    color: '#051d5f',
+    color: '#ffffff',
   },
   navButton: {
     marginTop: 15,
