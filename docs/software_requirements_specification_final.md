@@ -194,24 +194,41 @@
         
    ## Use Case Diagram Traceability:
         
-| Artifact ID | Artifact Name                                                     | Requirement ID |
-|-------------|-------------------------------------------------------------------|----------------|
-| UseCase1    | Successful Login or Signup for the user                           |                |
-| UseCase2    | Browsing through the Food Recipes                                 |                |
-| UseCase3    | Adding a recipe into the Wishlist                                 |                |
-| UseCase4    | Logging out from the application                                  |                |
-| UseCase5    | Browsing through the Wishlist screen and deleting a recipe        |                |
-| UseCase6    | API Request or API call to fetch results based on the Recipe name |                |
-| UseCase7    | Information Retrieval from Firebase                               |                |
+|     Artifact ID    |     Artifact Name                                                         |     Requirement ID                                            |
+|--------------------|---------------------------------------------------------------------------|---------------------------------------------------------------|
+|     UseCase1       |     Successful Login or Signup for the user                               |     FR1-9,FR30-FR32,NFR1-5,NFR8,NFR12-13,NFR18-19,NFR21-22    |
+|     UseCase2       |     Browsing through the Food Recipes                                     |     FR10,FR12-13,FR19,FR23-27,NFR9,NFR17                      |
+|     UseCase3       |     Adding a recipe into the Wishlist                                     |     FR14,FR16,NFR6,NFR10,NFR20                                |
+|     UseCase4       |     Logging out from the application                                      |     FR15,FR17,NFR7                                            |
+|     UseCase5       |     Browsing through the Wishlist screen and deleting a recipe            |     FR11,FR18-22,FR28-29,NFR11,NFR6                           |
+|     UseCase5       |     API Request or API call to fetch results based on the Recipe name     |     FR23-27,NFR9,NFR17                                        |
+|     UseCase7       |     Information Retrieval from Firebase                                   |     FR28-32,NFR13,NFR27                                       |
 
    ## Class Diagram Traceability:
 
-| Artifact Name                       | Requirement ID |
-|-------------------------------------|----------------|
-| ClassLoginScreen, classSignUpScreen |                |
-| ClassRecipeListScreen               |                |
-| ClassRecipeServer                   |                |
-| ClassWishlist                       |                |
-| ClassfirebaseConfig                 |                |
+|     Artifact Name                          |     Requirement ID                                                                                  |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|     ClassLoginScreen, classSignUpScreen    |     FR1-9, FR30-FR32, NFR1-5, NFR8, NFR12-13, NFR18-19, NFR21-22                                    |
+|     ClassRecipeListScreen                  |     FR10, FR12-13, FR19, FR23-27, NFR9, NFR17, FR14, FR16, NFR6, NFR10, NFR20, FR15, FR 17, NFR7    |
+|     ClassRecipeServer                      |     FR23-27, NFR9, NFR17                                                                            |
+|     ClassWishlist                          |     FR11, FR18-22, FR28-29, NFR11, NFR6                                                             |
+|     ClassfirebaseConfig                    |     FR28-32, NFR13, NFR27                                                                           |
 
 
+   ## Activity Diagram Traceability:
+
+| Artifact ID      | Artifact Name                                  | Requirement ID                                                           |
+|------------------|------------------------------------------------|--------------------------------------------------------------------------|
+| LoginScreen      | Handle User Login                              | FR1, FR2, FR3, NFR1-5, NFR8, NFR12-13, NFR18-19, NFR21-22                |
+| SignUpScreen     | Handle User SignUp                             | FR4, FR5, FR6, FR7, FR8, FR9, NFR1-5, NFR8, NFR12-13, NFR18-19, NFR21-22 |
+| RecipeListScreen | Browse through the list of food recipes        | FR10, FR12-13, FR19, FR23-27, NFR9, NFR17                                |
+| RecipeListScreen | Add items to the Wishlist                      | FR14, FR16, NFR6, NFR10, NFR20                                           |
+| RecipeListScreen | Successful Log out from the App                | FR15, FR 17, NFR7                                                        |
+| Wishlist         | Browse through the items added into Wishlist   | FR11, FR18-22, FR28, NFR6                                                |
+| Wishlist         | Delete a recipe                                | FR20-22, FR29, NFR11                                                     |
+| RecipeServer     | Handle the API request/ API response           | FR23-27, NFR9, NFR17                                                     |
+| Fbconfig         | Handle the Information retrieval from Firebase | FR28-32, NFR13, NFR27                                                    |
+
+
+# Software Artifacts:
+        
