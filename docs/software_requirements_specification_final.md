@@ -19,18 +19,18 @@
         
        
  | ID              | Requirement                                                                             |
-        |   ------------- | -------------------------------------------------------------------------------------   |
-        | FR1             | The user shall be prompted to enter their email id and password on the login page.      |
-        | FR2             | The user shall click on the Sign in button to log in to the app                         |
-        | FR3             | The user shall create a new account by clicking on “Don’t have an account? Create here” |
-        | FR4             | The user shall enter the email address and password on the Sign-Up Page                 |
-        | FR5             | The user shall be prompted with the Alert message “Passwords Do Not Match!”             |
-        |                 | from Firebase if the passwords don’t match.                                             |
-        | FR6             | The user shall be prompted with the Alert message “The email address is badly           |
-        |                 | formatted" from Firebase if the email address in invalid.                               |
-        | FR7             | The user shall be prompted with the Alert message " User created" upon successful Signup|
-        | FR8             | The user shall click on the Sign-up button to insert the data into Firebase.            |
-        | FR9             | The user shall click on “Have an account? Sign In” to navigate to the Login page.       |
+ |   ------------- | -------------------------------------------------------------------------------------   |
+ | FR1             | The user shall be prompted to enter their email id and password on the login page.      |
+ | FR2             | The user shall click on the Sign in button to log in to the app                         |
+ | FR3             | The user shall create a new account by clicking on “Don’t have an account? Create here” |
+ | FR4             | The user shall enter the email address and password on the Sign-Up Page                 |
+ | FR5             | The user shall be prompted with the Alert message “Passwords Do Not Match!”             |
+ |                 | from Firebase if the passwords don’t match.                                             |
+ | FR6             | The user shall be prompted with the Alert message “The email address is badly           |
+ |                 | formatted" from Firebase if the email address in invalid.                               |
+ | FR7             | The user shall be prompted with the Alert message " User created" upon successful Signup|
+ | FR8             | The user shall click on the Sign-up button to insert the data into Firebase.            |
+ | FR9             | The user shall click on “Have an account? Sign In” to navigate to the Login page.       |
       
         
    ### Home Screen:
