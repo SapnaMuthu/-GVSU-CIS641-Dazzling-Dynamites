@@ -19,7 +19,7 @@ This app uses the following packages:
 - [Axios](https://axios-http.com/docs/intro)
 - [npm Package Manager](https://www.npmjs.com/)
 - [Yarn Package Manager](https://yarnpkg.com/)
-- [Google Maps API](https://developers.google.com/maps)
+
 
 The dependencies/packages are installed using the following commands:
 .  yarn add @react-navigation/native
