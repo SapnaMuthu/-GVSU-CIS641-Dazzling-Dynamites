@@ -10,11 +10,12 @@ recipes later.
 <h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Tools Used: 
 </h2>
 
-- Expo and React Native is used to Build the Application.
+- Expo CLI and React Native is used to Build the Application.
 - Firebase User Authentication to Authenticate the existing user and to create a new user.
 - Firebase Realtime Database for the Mobile Backend.
 - Firebase Analytics to perform the reporting.
 - Edamam API is used extract the recipe details along with the ingredients, nutrients, and servings for a particular food recipe.
+- The App can be deployed as either Mobile or web application using Expo Go Link.
 
 <h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Approach: 
 </h2>
