@@ -60,10 +60,10 @@
 | :-------------: | :-------------------------------------------------------------------------------------: |
 | FR18            | The user shall find the list of recipes added to the Wishlist from the Home screen.     |
 | FR19            | The user shall find the recipe’s image and the recipe’s name.                           |
-| FR20            | The user shall shall have the option of deleting a recipe from the Wishlist.            |
-| FR21            | The user shall shall be prompted with a Toast message “Recipe Removed” once the delete  |
+| FR20            | The user shall have the option of deleting a recipe from the Wishlist.            |
+| FR21            | The user shall be prompted with a Toast message “Recipe Removed” once the delete  |
 |                 | icon is clicked.                                                                        |
-| FR22            | The user shall shall see an empty Wishlist if no recipe has been added to the Wishlist. |
+| FR22            | The user shall see an empty Wishlist if no recipe has been added to the Wishlist. |
         
                 
    ### API Implementation Requirements:
@@ -110,7 +110,7 @@
 | NFR5            | The user shall be provided with proper Alerts when an error occurs.                     |
 | NFR6            | The user shall be provided with the Toast message when an insert or deletion occurs in  |
 |                 | the Wishlist.                                                                           |
-| NFR7            | The user shall also be provided with the Toast message when logging out from the app.   |
+| NFR7            | The user shall be provided with the Toast message when logging out from the app.   |
 | NFR8            | The user shall easily navigate through the screens.                                     |
        
         
