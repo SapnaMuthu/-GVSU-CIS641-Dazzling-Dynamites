@@ -175,11 +175,14 @@
         with a section for FAQS. Also, some of the regular operations of the application will be posted and available on the 
         Internet for training purposes. This will ensure easy access to material, attract end users, and promote future business.
         Meeting the needs of an end-user or customers is the primary goal of any application, and we will ensure that goal is 
-        met by implementing a real-time application and providing proper instructions in handling the application in the event of a discrepancy.
+        met by implementing a real-time application and providing proper instructions in handling the application in the event of 
+        a discrepancy.
         
-        To ensure that the new system is well integrated into the customer's ecosystem, I will assign a member of the project team to assist the customer
+        To ensure that the new system is well integrated into the customer's ecosystem, I will assign a member of the project team 
+        to assist the customer
         with post-implementation activities until the customer is confident in the changeover adoption. 
-        I will also mention that 24/7 online support for the product is available to the customer, free of charge for the first three months.
+        We will also mention that 24/7 online support for the product is available to the customer, free of charge for the first three 
+        months.
                 
         For any issues discovered during the operation of the system, a 24/7 customer service help center and field service center 
         will be active to help the customer resolve the issue. In this way, we can capture the customer’s feedback and incorporate 
@@ -232,3 +235,15 @@
 
 # Software Artifacts:
         
+        A software development artifact is a result that aids in describing the architecture, design, and functionality 
+        of software. Software developers can follow the full process of software development using artifacts, 
+        which operate as roadmaps.
+        
+   1. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/proposal-template.md"> Project Proposal </a>
+
+   2. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/software_requirements_specification.md"> Software Requirement Specifications </a>  
+
+   3. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/software_requirements_specification_final.md"> Software Requirement Specifications Final Document </a> 
+   
+   4. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/Rezo%20App%20-%20Dazzling%20Dynamites.pdf"> Midterm Presentation </a>
+   
