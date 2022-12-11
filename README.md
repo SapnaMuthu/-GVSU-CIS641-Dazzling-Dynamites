@@ -50,7 +50,12 @@ $ expo start --tunnel
 
 # Download
 
-You can [run](https://expo.dev/@sapnamuthu/RecipeZone) the latest installable version of Rezo App for Android .
+1. You can [run](https://expo.dev/@sapnamuthu/RecipeZone) the latest installable version of Rezo App for Android .
+2. You will need to open the link and download Expo Go from Playstore to run the App.
+3. After which you can Sign up for a new account, and Login to the Home Screen.
+4. Select a recipe from an available list and you will see the results displayed in the screen.
+5. You can add a recipe to Wishlist and also delete an item from Wishlist.
+6. You can click on the Logout button on the top left to exit from the app. 
 
 This app also uses Edamam Recipe Search API to fetch results for a food recipe.
 [Click here to get more details about the API](https://developer.edamam.com/edamam-recipe-api)  
