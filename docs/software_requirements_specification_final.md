@@ -19,7 +19,7 @@
         
        
  | ID              | Requirement                                                                             |
- |   ------------- | -------------------------------------------------------------------------------------   |
+ | --------------- | -------------------------------------------------------------------------------------   |
  | FR1             | The user shall be prompted to enter their email id and password on the login page.      |
  | FR2             | The user shall click on the Sign in button to log in to the app                         |
  | FR3             | The user shall create a new account by clicking on “Don’t have an account? Create here” |
@@ -193,7 +193,7 @@
         software development lifecycle to the Deployment where requirements are written into the code, and it plays a key role
         in any project.
         
-   ## Use Case Diagram Traceability
+   ## Use Case Diagram Traceability:
         
 | Artifact ID | Artifact Name                                                     | Requirement ID |
 |-------------|-------------------------------------------------------------------|----------------|
@@ -204,3 +204,15 @@
 | UseCase5    | Browsing through the Wishlist screen and deleting a recipe        |                |
 | UseCase6    | API Request or API call to fetch results based on the Recipe name |                |
 | UseCase7    | Information Retrieval from Firebase                               |                |
+
+   ## Class Diagram Traceability:
+
+| Artifact Name                       | Requirement ID |
+|-------------------------------------|----------------|
+| ClassLoginScreen, classSignUpScreen |                |
+| ClassRecipeListScreen               |                |
+| ClassRecipeServer                   |                |
+| ClassWishlist                       |                |
+| ClassfirebaseConfig                 |                |
+
+
