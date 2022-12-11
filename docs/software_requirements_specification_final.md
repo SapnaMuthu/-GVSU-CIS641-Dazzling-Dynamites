@@ -87,7 +87,7 @@
        
 | ID              | Requirement                                                                             |
 | :-------------: | :-------------------------------------------------------------------------------------: |
-| FR28            | The user shall see the recipes Wishlisted by a particular user in the Wishlist screen by|
+| FR28            | The user shall see the recipes Wishlisted by them in the Wishlist screen by|
 |                 | retrieving the data from the Firebase.                                                  |
 | FR29            | The user shall delete a recipe in the Wishlist screen using the ID populated from the   |
 |                 | Firebase.                                                                               |
