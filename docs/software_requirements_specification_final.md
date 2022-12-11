@@ -195,7 +195,12 @@
         
    ## Use Case Diagram Traceability
         
-        | Artifact ID | Artifact Name | Requirement ID |
-        | :-------------: | :----------: | :----------: |
-        | UseCase1 | Move Player | FR5 |
-        | … | … | … |
+| Artifact ID | Artifact Name                                                     | Requirement ID |
+|-------------|-------------------------------------------------------------------|----------------|
+| UseCase1    | Successful Login or Signup for the user                           |                |
+| UseCase2    | Browsing through the Food Recipes                                 |                |
+| UseCase3    | Adding a recipe into the Wishlist                                 |                |
+| UseCase4    | Logging out from the application                                  |                |
+| UseCase5    | Browsing through the Wishlist screen and deleting a recipe        |                |
+| UseCase6    | API Request or API call to fetch results based on the Recipe name |                |
+| UseCase7    | Information Retrieval from Firebase                               |                |
