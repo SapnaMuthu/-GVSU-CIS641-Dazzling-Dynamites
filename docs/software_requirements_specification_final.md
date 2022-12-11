@@ -17,7 +17,7 @@
         
    ### User Registration:
         
-        | :-------------------------------------------------------------------------------------------------------: |
+       
         | ID              | Requirement                                                                             |
         | :-------------: | :-------------------------------------------------------------------------------------: |
         | FR1             | The user shall be prompted to enter their email id and password on the login page.      |
@@ -31,7 +31,7 @@
         | FR7             | The user shall be prompted with the Alert message " User created" upon successful Signup|
         | FR8             | The user shall click on the Sign-up button to insert the data into Firebase.            |
         | FR9             | The user shall click on “Have an account? Sign In” to navigate to the Login page.       |
-        | :-------------------------------------------------------------------------------------------------------: |
+      
         
    ### Home Screen:
           
