@@ -19,7 +19,7 @@
         
        
         | ID              | Requirement                                                                             |
-        | :-------------: | :-------------------------------------------------------------------------------------: |
+        |   ------------- | -------------------------------------------------------------------------------------   |
         | FR1             | The user shall be prompted to enter their email id and password on the login page.      |
         | FR2             | The user shall click on the Sign in button to log in to the app                         |
         | FR3             | The user shall create a new account by clicking on “Don’t have an account? Create here” |
