@@ -41,11 +41,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Expo
 # Clone this repository
 $ git clone https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/
 # Go into the repository
+$ cd GVSU-CIS641-Dazzling-Dynamites
 $ cd RecipeZone
 # Install dependencies
-$ yarn install
+$ npm install
 # Run the app
 $ expo start --tunnel
+# You will see a QR code and scan the QR code in the Expo GO to see the App.
 ```
 
 # Download
