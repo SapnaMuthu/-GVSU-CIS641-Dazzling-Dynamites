@@ -215,4 +215,16 @@
 | ClassWishlist                       |                |
 | ClassfirebaseConfig                 |                |
 
+   ## Activity Diagram Traceability:
 
+| Artifact ID      | Artifact Name                                  | Requirement ID |
+|------------------|------------------------------------------------|----------------|
+| LoginScreen      | Handle User Login                              |                |
+| SignUpScreen     | Handle User SignUp                             |                |
+| RecipeListScreen | Browse through the list of food recipes        |                |
+| RecipeListScreen | Add items to the Wishlist                      |                |
+| RecipeListScreen | Successful Log out from the App                |                |
+| Wishlist         | Browse through the items added into Wishlist   |                |
+| Wishlist         | Delete a recipe                                |                |
+| RecipeServer     | Handle the API request/ API response           |                |
+| Fbconfig         | Handle the Information retrieval from Firebase |                |
