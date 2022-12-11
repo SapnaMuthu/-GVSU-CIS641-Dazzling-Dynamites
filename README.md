@@ -22,16 +22,16 @@ This app uses the following packages:
 
 
 The dependencies/packages are installed using the following commands:
-.  yarn add @react-navigation/native
-.  expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
-.  yarn add @react-navigation/native-stack
-.  yarn add react-native-elements
-.  yarn add react-native-root-toast
-.  expo install firebase@9.6.11
-.  yarn add axios
-.  expo install expo-firebase-analytics
-.  yarn add @react-native-firebase/app
-.  yarn add react-native-dropdown-picker
+-  yarn add @react-navigation/native
+-  expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+-  yarn add @react-navigation/native-stack
+-  yarn add react-native-elements
+-  yarn add react-native-root-toast
+-  expo install firebase@9.6.11
+-  yarn add axios
+-  expo install expo-firebase-analytics
+-  yarn add @react-native-firebase/app
+-  yarn add react-native-dropdown-picker
 
 
 ## Run Instructions
