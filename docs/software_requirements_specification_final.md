@@ -12,9 +12,9 @@
         The two types of requirements are: Functional and Non-functional Requirements. Functional Requirements outlines the functions that are present in the app, 
         whereas Non-Functional requirements presents the app constraints and properties.
         
-        ## Functional Requirements:
+   ## Functional Requirements:
         
-        ### User Registration:
+   ### User Registration:
         
         | :-------------------------------------------------------------------------------------------------------: |
         | ID              | Requirement                                                                             |
@@ -32,7 +32,7 @@
         | FR9             | The user shall click on “Have an account? Sign In” to navigate to the Login page.       |
         | :-------------------------------------------------------------------------------------------------------: |
         
-          ### Home Screen:
+   ### Home Screen:
           
         | :-------------------------------------------------------------------------------------------------------: |
         | ID              | Requirement                                                                             |
@@ -52,7 +52,7 @@
         |                 | logs out from the app.                                                                  |
         | :-------------------------------------------------------------------------------------------------------: |
         
-        ### Wishlist Screen:
+   ### Wishlist Screen:
 
         | :-------------------------------------------------------------------------------------------------------: |
         | ID              | Requirement                                                                             |
@@ -65,7 +65,7 @@
         | FR22            | The user shall shall see an empty Wishlist if no recipe has been added to the Wishlist. |
         | :-------------------------------------------------------------------------------------------------------: |
                 
-        ### API Implementation Requirements:
+   ### API Implementation Requirements:
         
         | :-------------------------------------------------------------------------------------------------------: |
         | ID              | Requirement                                                                             |
@@ -81,7 +81,7 @@
         | FR27            | The application shall also handle Promise rejection errors which can be caused by Axios.|
         | :-------------------------------------------------------------------------------------------------------: |
         
-        ### Information Retrieval From Firebase:
+   ### Information Retrieval From Firebase:
         
         | :-------------------------------------------------------------------------------------------------------: |
         | ID              | Requirement                                                                             |
@@ -95,9 +95,9 @@
         | FR32            | The user shall be authenticated based on the credentials already present in the Firebase|
         | :-------------------------------------------------------------------------------------------------------: |
         
-        ## Non-Functional Requirements:  
+   ## Non-Functional Requirements:  
         
-        ### Usability:
+   ### Usability:
         
         | :-------------------------------------------------------------------------------------------------------: |
         | ID              | Requirement                                                                             |
@@ -114,7 +114,7 @@
         | :-------------------------------------------------------------------------------------------------------: |
         
             
-        ### Performance:
+   ### Performance:
         
         | :-------------------------------------------------------------------------------------------------------: |
         | ID              | Requirement                                                                             |
@@ -126,7 +126,7 @@
         | NFR13           | The application shall fetch information from the Firebase database very quickly.        |
         | :-------------------------------------------------------------------------------------------------------: |
 
-        ### Operational Requirements:
+   ### Operational Requirements:
         
         | :-------------------------------------------------------------------------------------------------------: |
         | ID              | Requirement                                                                             |
@@ -138,7 +138,7 @@
         | NFR18           | The application shall support multiple logins and thus be crash free.                   |
         | :-------------------------------------------------------------------------------------------------------: |
         
-        ### Security:
+   ### Security:
         
         | :-------------------------------------------------------------------------------------------------------: |
         | ID              | Requirement                                                                             |
@@ -152,7 +152,7 @@
         |                 | can do.                                                                                 |
         | :-------------------------------------------------------------------------------------------------------: |
         
-        ### Maintanibility:
+   ### Maintanibility:
         
         | :-------------------------------------------------------------------------------------------------------: |
         | ID              | Requirement                                                                             |
@@ -164,3 +164,10 @@
         | NFR28           | The system administrator shall monitor the users by country.                            |
         | :-------------------------------------------------------------------------------------------------------: |
         
+# Change management plan
+                
+        A project is a tool for transformation, and it is obvious for a change management plan to ensure that the appropriate mechanisms are in accordance with the design, and the development.  
+
+        The training module needs to be designed to promote changes in the system. The training module for our Recipe Zone application will involve a very detailed explanation of the setup and working of the new system in the form of a manual with a section for FAQS. Also, some of the regular operations of the application will be posted and available on the Internet for training purposes. This will ensure easy access to material, attract end users, and promote future business. Meeting the needs of an end-user or customers is the primary goal of any application and we will ensure that the goal is satisfied by implementing an application that is useful in real-time and by providing proper directions in handling the application in case of any discrepancy.
+        To ensure the new system has well integrated within the customer’s ecosystem, I will involve a member of the project team to support the customer, in post-implementation activities until there is confidence in the changeover adoption. I will also pitch that 24/7 online support for the product is available to the customer, free of cost for the first 3 months.
+        For any issues discovered during the operation of the system, a 24/7 customer service help center, and field service center will be active to help the customer resolve the issue.  In this way, we can capture the customer’s feedback and incorporate them into the application which will be deployed in the future.
