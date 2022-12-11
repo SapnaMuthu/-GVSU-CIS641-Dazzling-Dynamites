@@ -4,7 +4,7 @@
         The document should serve as the cornerstone for successful, well-managed project completion as well 
         as a reliable source of information in the future.
         The purpose of this system is to present the food recipes that the user is looking for and allow the 
-        user to Wishlist a food recipe based on their interest.
+        user to Wishlist a food recipe based on their interests.
     
 # Software Requirements:
 
@@ -167,30 +167,29 @@
         
 # Change management plan:
                 
-        A project is a tool for transformation, and it is obvious for a change management plan to ensure that the appropriate
-        mechanisms are in accordance with the design, and the development.  
+        A project is a tool for transformation, and it is obvious that a change management plan should ensure that the appropriate
+        mechanisms are in accordance with the design and the development.  
 
         The training module needs to be designed to promote changes in the system. The training module for our Recipe Zone 
         application will involve a very detailed explanation of the setup and working of the new system in the form of a manual 
         with a section for FAQS. Also, some of the regular operations of the application will be posted and available on the 
         Internet for training purposes. This will ensure easy access to material, attract end users, and promote future business.
-        Meeting the needs of an end-user or customers is the primary goal of any application and we will ensure that the goal is 
-        satisfied by implementing an application that is useful in real-time and by providing proper directions in handling the 
-        application in case of any discrepancy.
+        Meeting the needs of an end-user or customers is the primary goal of any application, and we will ensure that goal is 
+        met by implementing a real-time application and providing proper instructions in handling the application in the event of a discrepancy.
         
-        To ensure the new system has well integrated within the customer’s ecosystem, I will involve a member of the project team
-        to support the customer, in post-implementation activities until there is confidence in the changeover adoption. 
-        I will also pitch that 24/7 online support for the product is available to the customer, free of cost for the first 3 months.
-        
-        For any issues discovered during the operation of the system, a 24/7 customer service help center, and field service center 
-        will be active to help the customer resolve the issue.  In this way, we can capture the customer’s feedback and incorporate 
-        them into the application which will be deployed in the future.
+        To ensure that the new system is well integrated into the customer's ecosystem, I will assign a member of the project team to assist the customer
+        with post-implementation activities until the customer is confident in the changeover adoption. 
+        I will also mention that 24/7 online support for the product is available to the customer, free of charge for the first three months.
+                
+        For any issues discovered during the operation of the system, a 24/7 customer service help center and field service center 
+        will be active to help the customer resolve the issue. In this way, we can capture the customer’s feedback and incorporate 
+        it into the application that will be deployed in the future.
 
 # Traceability Links:
 
         The ability to specify and follow a requirement both forward and backward, from requirements to code, is referred to as 
         "traceability." When properly implemented, traceability enables you to follow work items all the way through the 
-        software development lifecycle to the Deployment where requirements are written into the code, and it plays a key role
+        software development lifecycle to the deployment, where requirements are written into the code, and it plays a key role
         in any project.
         
    ## Use Case Diagram Traceability:
