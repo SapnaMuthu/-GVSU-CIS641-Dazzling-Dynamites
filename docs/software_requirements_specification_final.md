@@ -165,7 +165,7 @@
         | NFR28           | The system administrator shall monitor the users by country.                            |
         | :-------------------------------------------------------------------------------------------------------: |
         
-# Change management plan
+# Change management plan:
                 
         A project is a tool for transformation, and it is obvious for a change management plan to ensure that the appropriate
         mechanisms are in accordance with the design, and the development.  
@@ -185,3 +185,17 @@
         For any issues discovered during the operation of the system, a 24/7 customer service help center, and field service center 
         will be active to help the customer resolve the issue.  In this way, we can capture the customer’s feedback and incorporate 
         them into the application which will be deployed in the future.
+
+# Traceability Links:
+
+        The ability to specify and follow a requirement both forward and backward, from requirements to code, is referred to as 
+        "traceability." When properly implemented, traceability enables you to follow work items all the way through the 
+        software development lifecycle to the Deployment where requirements are written into the code, and it plays a key role
+        in any project.
+        
+   ## Use Case Diagram Traceability
+        
+        | Artifact ID | Artifact Name | Requirement ID |
+        | :-------------: | :----------: | :----------: |
+        | UseCase1 | Move Player | FR5 |
+        | … | … | … |
