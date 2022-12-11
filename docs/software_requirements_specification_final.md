@@ -241,9 +241,7 @@
         
    1. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/proposal-template.md"> Project Proposal </a>
 
-   2. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/software_requirements_specification.md"> Software Requirement Specifications </a>  
-
-   3. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/software_requirements_specification_final.md"> Software Requirement Specifications Final Document </a> 
+   2. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/software_requirements_specification_final.md"> Software Requirement Specifications </a> 
    
-   4. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/Rezo%20App%20-%20Dazzling%20Dynamites.pdf"> Midterm Presentation </a>
+   3. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/Rezo%20App%20-%20Dazzling%20Dynamites.pdf"> Midterm Presentation </a>
    
