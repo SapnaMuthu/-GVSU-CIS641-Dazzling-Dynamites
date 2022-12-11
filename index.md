@@ -11,10 +11,10 @@ recipes later.
 </h2>
 
 - Expo and React Native is used to Build the Application.
-- Firebase User Authenticate to Authenticate the existing user and to create a new user.
-- Firebase Database for the Mobile Backend.
+- Firebase User Authentication to Authenticate the existing user and to create a new user.
+- Firebase Realtime Database for the Mobile Backend.
 - Firebase Analytics to perform the reporting.
-- RecipesAPI is used extract the recipe details along with the ingredients, nutrients, and servings for a particular food item.
+- Edamam API is used extract the recipe details along with the ingredients, nutrients, and servings for a particular food recipe.
 
 <h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Approach: 
 </h2>
@@ -23,12 +23,16 @@ recipes later.
 * Proper Integration with the Firebase to authenticate the User and to create a new User.
 * Maintaing the list of user's Wishlisted food recipes in the firebase database.
 * Ensuring the stability of the App without crashing.
-* Integration with the existing web API, RecipesAPI.
+* Integration with the existing web API, Edamam API.
+* App has been named as "REZO" - Recipe Zone Application.
+* Firebase Analytics is performed to monitor the user activity over time, overview of the app stability, user's retention, Event count by event name,
+  users by country, etc.
 
 <h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Related Artifacts and Documents:
 </h2>
 
 1. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/proposal-template.md"> Project Proposal </a>
 
-2. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/software_requirements_specification.md"> Software Requirement Specifications </a>
+2. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/software_requirements_specification_final.md"> Software Requirement Specifications </a>
 
+3. <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites/blob/master/docs/Rezo%20App%20-%20Dazzling%20Dynamites.pdf"> Midterm Presentation </a>
