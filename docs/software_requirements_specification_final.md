@@ -79,7 +79,7 @@
 | FR26            | The application shall use two APIs - one to populate the default recipe even before the |
 |                 | user selects a recipe and the other API is used to populate the results based on the    |
 |                 | user selection.                                                                         |
-| FR27            | The application shall also handle Promise rejection errors which can be caused by Axios.|
+| FR27            | The application shall handle Promise rejection errors which can be caused by Axios.|
         
         
    ### Information Retrieval From Firebase:
