@@ -153,7 +153,7 @@
 |                 | can do.                                                                                 |
        
         
-   ### Maintanibility:
+   ### Maintainability:
         
         
 | ID              | Requirement                                                                             |
